@@ -1,6 +1,6 @@
 ﻿  Pract_10.cpp
-C:\Users\st310-04\Desktop\Демин\Pract_10\Pract_10.cpp(12,27): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\st310-04\Desktop\Демин\Pract_10\Pract_10.cpp(25,27): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\st310-04\Desktop\Демин\Pract_10\Pract_10.cpp(88,13): warning C4551: в вызове функции отсутствует список аргументов
-C:\Users\st310-04\Desktop\Демин\Pract_10\Pract_10.cpp(46,17): warning C4101: si: неиспользованная локальная переменная
-  Pract_10.vcxproj -> C:\Users\st310-04\Desktop\Демин\Pract_10\x64\Debug\Pract_10.exe
+C:\Users\HardShop\Desktop\Projects\Pract_10_sys\Pract_10.cpp(14,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\HardShop\Desktop\Projects\Pract_10_sys\Pract_10.cpp(27,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\HardShop\Desktop\Projects\Pract_10_sys\Pract_10.cpp(43,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_10_sys\Pract_10.cpp(72,17): warning C4101: si: неиспользованная локальная переменная
+  Pract_10.vcxproj -> C:\Users\HardShop\Desktop\Projects\Pract_10_sys\x64\Debug\Pract_10.exe
